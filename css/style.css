@@ -1,0 +1,16 @@
+/*----------------------------
+         Card Custom Styles 
+------------------------------*/
+.fixed-height {
+    min-height: 8rem;
+}
+
+.text-color-light {
+    color: #9c9a9a;
+}
+
+.card-persona img {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+}
